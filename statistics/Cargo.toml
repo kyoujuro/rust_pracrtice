@@ -8,5 +8,5 @@ edition = "2018"
 [dependencies]
 
 [profile.dev]
-opt-level = 3
+opt-level = 1
 overflow-checks = false
