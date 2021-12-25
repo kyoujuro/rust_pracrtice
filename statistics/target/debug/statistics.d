@@ -1,0 +1,1 @@
+/Users/shakemaruq/Desktop/practice/RustPra/Rust_practice/rust_practice/rust_pracrtice/statistics/target/debug/statistics: /Users/shakemaruq/Desktop/practice/RustPra/Rust_practice/rust_practice/rust_pracrtice/statistics/src/main.rs
