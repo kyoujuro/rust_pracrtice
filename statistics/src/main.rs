@@ -1,6 +1,6 @@
-use std::cmp::Ordering;
-use std::io;
-use rand::{thread_rng, Rng};
+// use std::cmp::Ordering;
+// use std::io;
+// use rand::{thread_rng, Rng};
 use std::time::{Instant};
 fn main() {
     let istop = Instant::now();
