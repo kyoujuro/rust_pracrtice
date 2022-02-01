@@ -7,4 +7,12 @@ pub mod active_fn{
             return n;
         }
     }
+    pub fn sigmoid(n: f64) -> f64{
+        let i = 1.0_f64;
+        return i.exp();
+    }
+    pub fn logit(n: f64) -> f64{
+        let i = 1.0_f64;
+        return i.exp() / (1.0 + i.exp());
+    }
 }
